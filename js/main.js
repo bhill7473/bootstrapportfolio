@@ -29,8 +29,8 @@ $('body').fadeIn(5000);
    location.href = "https://mobilewebdesign.herokuapp.com/";
 
  });
- $('#jquery').on('click', function(){
-   location.href = "https://jqueryproject.herokuapp.com/";
+ $('#excite').on('click', function(){
+   location.href = "https://excitesandbites.herokuapp.com/";
 
  });
  $('#postpick').on('mouseenter', function(){
@@ -39,7 +39,7 @@ $('body').fadeIn(5000);
  $('#mobiledesign').on('mouseenter', function(){
    $('#mobiledesign').addClass('hover');
  });
- $('#jquery').on('mouseenter', function(event){
-   $('#jquery').addClass('hover');
+ $('#excite').on('mouseenter', function(event){
+   $('#excite').addClass('hover');
  });
  });
