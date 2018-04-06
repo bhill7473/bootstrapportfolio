@@ -4,7 +4,7 @@ body{
 .aboutSection{
   width:400px;
   height:500px;
-  border:10px solid black;
+  border:10px solid #007bff;
   margin:auto;
   margin-top:50px;
   padding:10px;
@@ -14,7 +14,7 @@ body{
   height:500px;
   margin:auto;
   margin-top:50px;
-  border:10px solid black;
+  border:10px solid #007bff;
 }
 #meimg{
   width:300px;
@@ -30,8 +30,13 @@ body{
 .card-img-top{
   height:250px;
 }
-h3{
+#title{
   text-align: center;
+  color: #fff;
+  font-family: fantasy;
+}
+h3{
+  text-align:center;
 }
 p{
   text-indent:20px;
