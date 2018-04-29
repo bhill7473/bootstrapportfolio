@@ -1,6 +1,7 @@
 $(document).ready(function(){
 
-$('body').fadeIn(5000);
+$('#meimg').fadeIn(5000);
+$('.abtP').fadeIn(5000);
 // link effects
   $('.github').click(function(){
    window.location = 'https://github.com/bhill7473';
